@@ -8,10 +8,10 @@
 <h3 align="center" style="font-weight:600;">
   ⚡ Backend-Focused Full-Stack Developer | MERN | Cloud | Distributed Systems
 </h3>
-
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69215af05c888191845310ab2f2eeffb" width="700" />
+  <img src="https://raw.githubusercontent.com/username/repo/branch/path/to/image.png" width="700" />
 </p>
+
 
 
 <div align="center">
