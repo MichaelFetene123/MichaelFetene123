@@ -30,7 +30,7 @@
 - 🎓 Software Engineering Student at **Arba Minch University**
 - 💻 Full-Stack Developer with strong backend orientation  
 - 🌩 Exploring **Cloud Computing**, **Distributed Systems**, and **Scalable Architectures**
-- 🚀 Tech Stack: Node.js · Express · React · MongoDB · MySQL · TypeScript  
+- 🚀 Tech Stack: Node.js · Express · React · MongoDB · MySQL · TypeScript . Laravel
 - 🔧 Love building **real-world systems**, not just projects  
 - ☁ Deployments: Render · Vercel · Railway  
 - 🎯 Goal: Become a **Cloud & Distributed Systems Engineer**
