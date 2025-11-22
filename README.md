@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700" />
+  <img src="https://chatgpt.com/s/m_69215af05c888191845310ab2f2eeffb" width="700" />
 </p>
 
 
