@@ -2,8 +2,7 @@
 
 <!-- 🌈 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MEAL%20CODER&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=50" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Michael%20Fetene%20👨‍💻&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=50&desc=Full%20Stack%20Developer%20|%20Node.js%20%7C%20React%20%7C%20Cloud&descAlignY=60&descAlign=50" />
 </p>
 
 <h3 align="center" style="font-weight:600;">
@@ -122,7 +121,7 @@
 
 ---
 
-## 🌍 Visitor Activity Map
+## 🌍 Visitor Location Map
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelFetene123&theme=react-dark&hide_border=true"/>
