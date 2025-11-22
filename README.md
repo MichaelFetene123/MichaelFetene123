@@ -9,9 +9,8 @@
   ⚡ Backend-Focused Full-Stack Developer | MERN | Cloud | Distributed Systems
 </h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MichaelFetene123/MyRepo/main/assets/coder.gif" width="700" alt="Coder GIF" />
+  <img src="https://i.imgur.com/abcd1234.gif" width="700" alt="Coder GIF" />
 </p>
-
 
 
 
