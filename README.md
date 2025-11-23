@@ -50,7 +50,7 @@
 ## 🧠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,linux,figma,vscode,tailwind,docker,redis,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,linux,figma,vscode,tailwind,docker,redis,postman,bash,Laravel" />
 </p>
 
 ---
