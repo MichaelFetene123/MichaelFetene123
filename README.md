@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center" style="font-weight:600;">
-  ⚡ Backend-Focused |  next.js | Nest.js | Cloud
+  ⚡ Next.js | Nest.js | Backend-Focused Laravel
 </h3>
 <p align="center">
   <img src="https://i.imgur.com/abcd1234.gif" width="700" alt="Coder GIF" />
