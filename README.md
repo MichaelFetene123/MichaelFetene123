@@ -147,18 +147,4 @@
 
 ---
 
-## ✨ Quote of the Day
 
-> **"First, solve the problem. Then, write the code." — John Johnson**
-
----
-
-<h3 align="center">⭐ Thanks for visiting — feel free to explore my repositories! ⭐</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" />
-</p>
